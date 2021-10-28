@@ -1,6 +1,6 @@
 ## Welcome to My Github Pages
 
-My website github [Hammytaro](https://github.com/Hammytaro/cse4050/edit/gh-pages/index.md)
+My website github [Hammytaro](https://github.com/Hammytaro/cse4050/edit/gh-pages/index.md) \n
 This is a project made for myself to introduce to hiring staff and associates. 
 
 
