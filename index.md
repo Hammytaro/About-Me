@@ -1,14 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome to My Github Pages
 
-You can use the [editor on GitHub](https://github.com/Hammytaro/cse4050/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My website github[Hammytaro](https://github.com/Hammytaro/cse4050/edit/gh-pages/index.md)
+This is a project made for myself to introduce to hiring staff and associates. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Additonal Links
+[LinkedIn](https://https://www.linkedin.com/in/sean-akins-csegame-designer/) 
+This is my professional account for LinkedIn
+[Handshake](https://csusb.joinhandshake.com/users/8592457)
+Handshake link to my in-depth profile
+[Indeed](https://my.indeed.com/resume?hl=en&co=US&from=gnav-acme--jobseeker-contributions-webapp/)
+This may/may not lead you to a useable website. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### _About Me_
+
+
 
 ```markdown
+A picture of where I went for schooling
+[Image](![image](https://user-images.githubusercontent.com/73853030/139179628-824d6b02-8751-4d48-a582-fa9478fbcf61.png)
+
 Syntax highlighted code block
 
 # Header 1
@@ -23,7 +34,6 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
