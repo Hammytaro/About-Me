@@ -1,2 +1,2 @@
-# CSE4050
+# Sean Akins
  Website for cse4050
