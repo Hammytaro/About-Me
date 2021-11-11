@@ -14,12 +14,16 @@ This may/may not lead you to a useable website. <br/>
 
 ### _About Me_
 
+Schooling: <br/>
+CSUSB <br/>
+`5500 University Pkwy 
+San Bernardino, CA 92407` <br/>
 
+Degree: <br/>
+Bachelors of Arts, Computer Systems <br/>
+`Concentration of Game Developing` <br/>
 
 ```markdown
-A picture of where I went for schooling <br/>
-[Image](![image](https://user-images.githubusercontent.com/73853030/139179628-824d6b02-8751-4d48-a582-fa9478fbcf61.png)
-
 Syntax highlighted code block
 
 # Header 1
@@ -36,12 +40,10 @@ Syntax highlighted code block
 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Hammytaro/cse4050/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ### Support or Contact
+Feel free to shoot me a message on LinkedIn as I use it frequently.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+```markdown
+If you want further support with understanding where to start, use this [Link](https://guides.github.com/features/mastering-markdown/) <br/>
+for more details. 
