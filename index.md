@@ -1,5 +1,18 @@
+# Site navigation links
+- title: Home
+  url: /
 
-![Jetpacktocat](https://octodex.github.com/images/jetpacktocat.png)
+- title: Presentations
+  url: /presentations/
+
+- title: CV
+  url: /cv/
+
+- title: Blog
+  url: /blog/
+
+- title: Workshops
+   url: /workshops/
 
 
 
