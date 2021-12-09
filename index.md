@@ -48,7 +48,7 @@ Players can buy upgrades to help defend the train.`
 Feel free to shoot me a message on LinkedIn as I use it frequently.
 
 
-```markdown
+
 If you want further support with understanding where to start, use this [Link](https://guides.github.com/features/mastering-markdown/) <br/>
 for more details. 
-```
+
