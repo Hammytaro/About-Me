@@ -27,19 +27,14 @@ Bachelors of Arts, Computer Systems <br/>
 `Concentration of Game Developing` <br/>
 
 ```markdown
-Syntax highlighted code block
+Projects WIP/Completed
+# Project Star Rider
+`Star Rider is a single-player action-packed space shooter. Where the player will complete various missions in a 3d world. The player will be playing as the pilot, Star Rider, and controlling his ship Sirius. In order to fight various alien-based enemies  As you fly from the night sky straight into the stars to save planet earth. The game will be available on PC via itch.io`
+-currently working on this one
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+# Railroad Defender
+`vertical scroller where you defend a train and its cars. Enemies attack it and the player has to defend it. Players can buy upgrades to help defend the train.`
 
 ```
 
@@ -50,3 +45,4 @@ Feel free to shoot me a message on LinkedIn as I use it frequently.
 ```markdown
 If you want further support with understanding where to start, use this [Link](https://guides.github.com/features/mastering-markdown/) <br/>
 for more details. 
+```
