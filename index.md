@@ -38,7 +38,9 @@ The game will be available on PC in the next coming year`
 
 
 # Railroad Defender
-`vertical scroller where you defend a train and its cars. Enemies attack it and the player has to defend it. Players can buy upgrades to help defend the train.`
+`vertical scroller where you defend a train and its cars. 
+Enemies attack it and the player has to defend it. 
+Players can buy upgrades to help defend the train.`
 
 ```
 
