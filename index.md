@@ -29,7 +29,11 @@ Bachelors of Arts, Computer Systems <br/>
 ```markdown
 Projects WIP/Completed
 # Project Star Rider
-`Star Rider is a single-player action-packed space shooter. Where the player will complete various missions in a 3d world. The player will be playing as the pilot, Star Rider, and controlling his ship Sirius. In order to fight various alien-based enemies  As you fly from the night sky straight into the stars to save planet earth. The game will be available on PC via itch.io`
+`Star Rider is a single-player action-packed space shooter. 
+Where the player will complete various missions in a 3d world. 
+The player will be playing as the pilot, Star Rider, and controlling his ship Sirius. 
+In order to fight various alien-based enemies  As you fly from the night sky straight into the stars to save planet earth. 
+The game will be available on PC in the next coming year`
 -currently working on this one
 
 
