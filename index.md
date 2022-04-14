@@ -8,7 +8,7 @@ This is a project made for myself to introduce to hiring staff and associates.
 
 
 ## Additonal Links
-[LinkedIn](https://https://www.linkedin.com/in/sean-akins-csegame-designer/) <br/>
+[LinkedIn](https://www.linkedin.com/in/sean-akins-csegame-designer/) <br/>
 This is my professional account for LinkedIn.<br/>
 [Handshake](https://csusb.joinhandshake.com/users/8592457) <br/>
 Handshake link to my in-depth profile. <br/>
