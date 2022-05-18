@@ -12,8 +12,8 @@ This is a project made for myself to introduce to hiring staff and associates.
 This is my professional account for LinkedIn.<br/>
 [Handshake](https://csusb.joinhandshake.com/users/8592457) <br/>
 Handshake link to my in-depth profile. <br/>
-[Indeed](https://my.indeed.com/resume?hl=en&co=US&from=gnav-acme--jobseeker-contributions-webapp/) <br/>
-This may/may not lead you to a useable website. <br/> 
+[LudemDare](https://ldjam.com/users/hamtaro/games) <br/>
+Here is a link to a game i worked in a group. <br/> 
 
 ### _About Me_
 
@@ -38,18 +38,17 @@ The game will be available on PC in the next coming year`
 -currently working on this one
 
 
-# Railroad Defender
+# Railroad Defender (Completed)
 `vertical scroller where you defend a train and its cars. 
 Enemies attack it and the player has to defend it. 
 Players can buy upgrades to help defend the train.`
 
+# You will die
+`A ludem dare game that was made for an event that I made the coding for the AI, player movement and animations. 
+Synopsis: Delay the inevitable! There’s a dragon approaching your village, and there’s nothing you can do to stop it. 
+However, the villagers might be able to be saved… but you will have to die first.
 ```
 
 ### Support or Contact
 Feel free to shoot me a message on LinkedIn as I use it frequently.
-
-
-
-If you want further support with understanding where to start, use this [Link](https://guides.github.com/features/mastering-markdown/) <br/>
-for more details. 
 
