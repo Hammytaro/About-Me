@@ -3,7 +3,7 @@
 
 ## Welcome to My Github Pages
 
-My website github [Hammytaro](https://github.com/Hammytaro/cse4050/edit/gh-pages/index.md) <br/>
+My website github [Hammytaro](https://github.com/Hammytaro) <br/>
 This is a project made for myself to introduce to hiring staff and associates. 
 
 
